@@ -1,4 +1,4 @@
-## Oi, eu sou o Patrick, estudante de programação!
+## Oi, eu sou o Patrick! Estudante de programação!
 <div align="center">
   <a href="https://beacons.ai/ptkrnnan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ptkrnnan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
