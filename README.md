@@ -18,27 +18,27 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="35" alt="prisma logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
 </div>
 
 ###
