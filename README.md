@@ -1,4 +1,4 @@
-<h1 align="center">Olá, 👋 me chamo Patrick | Desenvolvedor Backend 👨‍💻</h1>
+<h1 align="center">Olá, 👋 me chamo Patrick</h1>
 
 ###
 <!--
